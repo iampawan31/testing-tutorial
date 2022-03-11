@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1646842249251" clover="3.2.0">
+  <project timestamp="1646842249251" name="All files">
+    <metrics statements="10" coveredstatements="9" conditionals="5" coveredconditionals="4" methods="8" coveredmethods="7" elements="23" coveredelements="20" complexity="0" loc="10" ncloc="10" packages="2" files="5" classes="5"/>
+    <package name="src">
+      <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <file name="App.vue" path="/Users/pawankumar/Practice/testing-tutorial/src/App.vue">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components">
+      <metrics statements="9" coveredstatements="9" conditionals="5" coveredconditionals="4" methods="7" coveredmethods="7"/>
+      <file name="HelloWorld.vue" path="/Users/pawankumar/Practice/testing-tutorial/src/components/HelloWorld.vue">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="6" type="stmt"/>
+      </file>
+      <file name="Message.vue" path="/Users/pawankumar/Practice/testing-tutorial/src/components/Message.vue">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="6" type="stmt"/>
+      </file>
+      <file name="Nav.vue" path="/Users/pawankumar/Practice/testing-tutorial/src/components/Nav.vue">
+        <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="1" count="9" type="cond" truecount="2" falsecount="0"/>
+        <line num="12" count="2" type="stmt"/>
+      </file>
+      <file name="TodoApp.vue" path="/Users/pawankumar/Practice/testing-tutorial/src/components/TodoApp.vue">
+        <metrics statements="5" coveredstatements="5" conditionals="3" coveredconditionals="2" methods="3" coveredmethods="3"/>
+        <line num="1" count="58" type="cond" truecount="2" falsecount="1"/>
+        <line num="32" count="5" type="stmt"/>
+        <line num="39" count="2" type="stmt"/>
+        <line num="40" count="2" type="stmt"/>
+        <line num="45" count="2" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
